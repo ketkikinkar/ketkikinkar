@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 ### 📊 My Stats:
 
-![Ketki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ketkikinkar&show_icons=true&theme=tokyonight)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ketkikinkar&show_icons=true&theme=tokyonight)
 
 ---
 
