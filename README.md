@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### ‍🔍 About Me:
 - 🏫 Currently pursuing a **Master of Science in Applied Data Science** at the **University of Southern California**.
-- 💼 **Research Assistant** focusing on multimodal models for disease detection using brain MRIs.
+- 💼 **Research Assistant** focusing on multimodal models for disease detection using breast cancer mammography images and ultrasound images.
 - 🌐 Looking to collaborate on **data-driven projects** that push the boundaries of **machine learning and AI**.
 - 🤖 Passionate about **innovating healthcare through technology**.
 - 🌟 Actively seeking full-time roles in Data Science.
