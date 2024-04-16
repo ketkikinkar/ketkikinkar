@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🏫 Currently pursuing a **Master of Science in Applied Data Science** at the **University of Southern California**.
 - 💼 **Research Assistant** focusing on multimodal models for disease detection using breast cancer mammography images and ultrasound images.
 - 🌐 Looking to collaborate on **data-driven projects** that push the boundaries of **machine learning and AI**.
-- 🤖 Passionate about **innovating healthcare through technology**.
+- 🤖 Passionate about **innovating through data technology**.
 - 🌟 Actively seeking full-time roles in Data Science.
 - 📚 Check out my [**Google Scholar profile**](https://scholar.google.com/citations?user=vpmCbCQAAAAJ&hl=en&oi=ao) for my publications.
 - ⚡ Fun fact: I dream in code and wake up to data!
