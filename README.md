@@ -32,7 +32,6 @@ Here are some ideas to get you started:
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=Keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
@@ -44,6 +43,9 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
 ---
 
