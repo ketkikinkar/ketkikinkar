@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-007ACC?style=flat&logo=custom&logoColor=white)
 ![LLM](https://img.shields.io/badge/-LLM-007BFF?style=flat&logo=custom&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-76B900?style=flat&logo=opencv&logoColor=white)
 ![RAG](https://img.shields.io/badge/-RAG-FF4500?style=flat&logo=custom&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
