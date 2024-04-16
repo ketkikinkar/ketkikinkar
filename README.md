@@ -56,6 +56,12 @@ Here are some ideas to get you started:
 
 ---
 
+### 💻 Most Used Languages:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ketkikinkar&layout=compact&theme=vision-friendly-dark)
+
+---
+
 ### 📚 Scholarly Impact:
 
 - **Google Scholar Citations**: [View my publications and citations](https://scholar.google.com/citations?user=vpmCbCQAAAAJ&hl=en&oi=ao).
