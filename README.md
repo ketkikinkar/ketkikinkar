@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 ### 📚 Scholarly Impact:
 
 - **Google Scholar Citations**: [View my publications and citations](https://scholar.google.com/citations?user=vpmCbCQAAAAJ&hl=en&oi=ao).
-- **Total Citations**: 26 (as of last check)
+- **Total Citations**: 27 (as of last check)
 - **Publications**: 10 major papers in fields of machine learning and data science.
 
 ---
