@@ -69,5 +69,17 @@ Here are some ideas to get you started:
 - **Publications**: 10 major papers in fields of machine learning and data science.
 
 ---
+### 📝 My Blogs:
+
+- [From Raw Data to Informed Decisions: The Importance of Statistics in Data Science and How to Apply It](https://medium.com/@ketki_kinkar/from-raw-data-to-informed-decisions-the-importance-of-statistics-in-data-science-and-how-to-cae92f91b253)
+- [Linear Regression: Data Scientist Interview Q&A](https://medium.com/@ketki_kinkar/linear-regression-data-scientist-interview-qna-f68e3fc56603)
+
+For more articles, subscribe and follow me on [Medium](https://medium.com/@ketki_kinkar).
+
+---
+
+### 📂 Future Blogs:
+
+Stay tuned for more insightful articles on data science, machine learning, and AI. 
 
 Feel free to fork, star, or contribute to my repositories! Let's explore the frontiers of technology together.
