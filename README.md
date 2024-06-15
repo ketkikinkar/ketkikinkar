@@ -49,6 +49,13 @@ Here are some ideas to get you started:
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
 ---
+### 📝 My Blogs:
+
+- [From Raw Data to Informed Decisions: The Importance of Statistics in Data Science and How to Apply It](https://medium.com/@ketki_kinkar/from-raw-data-to-informed-decisions-the-importance-of-statistics-in-data-science-and-how-to-cae92f91b253)
+- [Linear Regression: Data Scientist Interview Q&A](https://medium.com/@ketki_kinkar/linear-regression-data-scientist-interview-qna-f68e3fc56603)
+
+For more articles, subscribe and follow me on [Medium](https://medium.com/@ketki_kinkar).
+---
 
 ### 📊 My Stats:
 
@@ -68,13 +75,6 @@ Here are some ideas to get you started:
 - **Total Citations**: 28 (as of last check)
 - **Publications**: 10 major papers in fields of machine learning and data science.
 
----
-### 📝 My Blogs:
-
-- [From Raw Data to Informed Decisions: The Importance of Statistics in Data Science and How to Apply It](https://medium.com/@ketki_kinkar/from-raw-data-to-informed-decisions-the-importance-of-statistics-in-data-science-and-how-to-cae92f91b253)
-- [Linear Regression: Data Scientist Interview Q&A](https://medium.com/@ketki_kinkar/linear-regression-data-scientist-interview-qna-f68e3fc56603)
-
-For more articles, subscribe and follow me on [Medium](https://medium.com/@ketki_kinkar).
 
 ---
 
