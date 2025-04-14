@@ -60,11 +60,6 @@ For more, follow my posts on [Medium](https://medium.com/@ketki_kinkar).
 
 ---
 
-### 💻 Most Used Languages:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ketkikinkar&layout=compact&theme=vision-friendly-dark)
-
----
 
 ## Let's Connect
 
