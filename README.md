@@ -17,7 +17,7 @@ I am a dedicated and innovative data science professional with a passion for bri
 - **Advanced Modeling Techniques:** Proficient in classical machine learning and deep learning architectures. Skilled in feature engineering, model optimization, and performance evaluation.
 - **Experimental Design:** Experience in designing experiments and conducting A/B tests to validate model efficacy and business impact.
 
-### LLM Machine Learning
+### LLM 
 - **Transformer Architectures:** Deep understanding of state-of-the-art transformer-based models and their fine-tuning for natural language processing tasks.
 - **Prompt Engineering:** Proficient in developing effective prompts and leveraging pre-trained large language models to generate insightful outcomes.
 - **Multimodal Integration:** Innovating on merging text, image, and structured data to create comprehensive predictive systems, particularly in healthcare applications.
