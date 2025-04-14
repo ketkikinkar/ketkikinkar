@@ -6,7 +6,7 @@
 
 ## About Me
 
-I am a dedicated and innovative data science professional with a passion for bridging advanced machine learning techniques and real-world applications. Currently, I'm pursuing my Master of Science in Applied Data Science at the University of Southern California, where I work at the intersection of data science and LLM machine learning. My focus is on developing robust models that harness the power of multimodal data—including clinical images and natural language—to drive breakthroughs in disease detection and beyond.
+I am a dedicated and innovative data science professional with a passion for bridging advanced machine learning techniques and real-world applications. Currently, I'm working as Data Science Researcher at the University of Southern California. My focus is on developing robust models that harness the power of multimodal data—including clinical images and natural language—to drive breakthroughs in disease detection and beyond.
 
 ---
 
