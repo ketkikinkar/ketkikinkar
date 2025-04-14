@@ -72,7 +72,7 @@ For more articles, subscribe and follow me on [Medium](https://medium.com/@ketki
 ### 📚 Scholarly Impact:
 
 - **Google Scholar Citations**: [View my publications and citations](https://scholar.google.com/citations?user=vpmCbCQAAAAJ&hl=en&oi=ao).
-- **Total Citations**: 45 (as of last check)
+- **Total Citations**: 48 (as of last check)
 - **Publications**: 14 major papers in fields of machine learning and data science.
 
 
