@@ -1,85 +1,72 @@
-<!--
-**ketkikinkar/ketkikinkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Ketki Kinkar 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# Hello, I'm Ketki Kinkar 👋
-
-🎓 **Data Science Enthusiast** | 📍 **Los Angeles, CA, USA**
-
-### ‍🔍 About Me:
-- 🏫 Currently pursuing a **Master of Science in Applied Data Science** at the **University of Southern California**.
-- 💼 **Data Science Researcher** focusing on multimodal models for disease detection using breast cancer mammography images and ultrasound images.
-- 🌐 Looking to collaborate on **data-driven projects** that push the boundaries of **machine learning and AI**.
-- 🤖 Passionate about **innovating through data technology**.
-- 🌟 Actively seeking full-time roles in Data Science.
-- 📚 Check out my [**Google Scholar profile**](https://scholar.google.com/citations?user=vpmCbCQAAAAJ&hl=en&oi=ao) for my publications.
-- ⚡ Fun fact: I dream in code and wake up to data!
+**Data Science Researcher**
 
 ---
 
-### 🔧 Languages and Tools:
+## About Me
+
+I am a dedicated and innovative data science professional with a passion for bridging advanced machine learning techniques and real-world applications. Currently, I'm pursuing my Master of Science in Applied Data Science at the University of Southern California, where I work at the intersection of data science and LLM machine learning. My focus is on developing robust models that harness the power of multimodal data—including clinical images and natural language—to drive breakthroughs in disease detection and beyond.
+
+---
+
+## Professional Expertise
+
+### Data Science & Machine Learning
+- **Statistical Analysis & Data Engineering:** Expertise in transforming and cleaning complex datasets, applying rigorous statistical methodologies to derive actionable insights.
+- **Advanced Modeling Techniques:** Proficient in classical machine learning and deep learning architectures. Skilled in feature engineering, model optimization, and performance evaluation.
+- **Experimental Design:** Experience in designing experiments and conducting A/B tests to validate model efficacy and business impact.
+
+### LLM Machine Learning
+- **Transformer Architectures:** Deep understanding of state-of-the-art transformer-based models and their fine-tuning for natural language processing tasks.
+- **Prompt Engineering:** Proficient in developing effective prompts and leveraging pre-trained large language models to generate insightful outcomes.
+- **Multimodal Integration:** Innovating on merging text, image, and structured data to create comprehensive predictive systems, particularly in healthcare applications.
+
+---
+
+## Tools & Technologies
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=Keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
-![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-007ACC?style=flat&logo=custom&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=Keras&logoColor=white)
 ![LLM](https://img.shields.io/badge/-LLM-007BFF?style=flat&logo=custom&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-76B900?style=flat&logo=opencv&logoColor=white)
-![RAG](https://img.shields.io/badge/-RAG-FF4500?style=flat&logo=custom&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 
----
-### 📝 My Blogs:
-
-- [From Raw Data to Informed Decisions: The Importance of Statistics in Data Science and How to Apply It](https://medium.com/@ketki_kinkar/from-raw-data-to-informed-decisions-the-importance-of-statistics-in-data-science-and-how-to-cae92f91b253)
-- [Linear Regression: Data Scientist Interview Q&A](https://medium.com/@ketki_kinkar/linear-regression-data-scientist-interview-qna-f68e3fc56603)
-
-For more articles, subscribe and follow me on [Medium](https://medium.com/@ketki_kinkar).
----
-
-### 📊 My Stats:
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ketkikinkar&show_icons=true&theme=tokyonight)
+*Additional tools and libraries include SQL, MongoDB, Flask, LangChain, and cloud platforms like GCP and AWS.*
 
 ---
 
-### 💻 Most Used Languages:
+## Selected Projects & Research
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ketkikinkar&layout=compact&theme=vision-friendly-dark)
+- **Multimodal Disease Detection:** Developed a comprehensive deep learning pipeline combining breast cancer mammography images and ultrasound scans to improve diagnostic accuracy.
+- **LLM-Based Analytics:** Engineered and fine-tuned transformer models for natural language understanding and generation, addressing complex tasks such as medical report summarization and real-time query answering.
+- **Data-Driven Decision Systems:** Architected scalable data pipelines that integrate structured and unstructured data to empower insightful analytics and strategic decisions.
 
----
-
-### 📚 Scholarly Impact:
-
-- **Google Scholar Citations**: [View my publications and citations](https://scholar.google.com/citations?user=vpmCbCQAAAAJ&hl=en&oi=ao).
-- **Total Citations**: 48 (as of last check)
-- **Publications**: 14 major papers in fields of machine learning and data science.
-
+For more details, check out my [GitHub repositories](https://github.com/ketkikinkar) or visit my [Google Scholar profile](https://scholar.google.com/citations?user=vpmCbCQAAAAJ&hl=en).
 
 ---
 
-### 📂 Future Blogs:
+## Publications & Blogs
 
-Stay tuned for more insightful articles on data science, machine learning, and AI. 
+I regularly publish articles and research findings on advanced data science methods and LLM innovations.  
+- **From Raw Data to Informed Decisions:** Exploring statistical methodologies in real-world data problems.  
+- **Navigating the Complexities of Linear Regression:** A deep dive into techniques and applications in data science.
 
-Feel free to fork, star, or contribute to my repositories! Let's explore the frontiers of technology together.
+For more, follow my posts on [Medium](https://medium.com/@ketki_kinkar).
+
+---
+
+## Let's Connect
+
+I am always open to collaborating on projects that push the limits of data science and machine learning. Whether you're interested in cutting-edge research or building robust solutions, feel free to reach out.
+
+- 📫 **Email:** [your.email@example.com](mailto:your.email@example.com)
+- 💬 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+
+---
+
+*Thank you for visiting my profile. Let's drive innovation together!*
