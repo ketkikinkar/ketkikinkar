@@ -60,6 +60,12 @@ For more, follow my posts on [Medium](https://medium.com/@ketki_kinkar).
 
 ---
 
+### 💻 Most Used Languages:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ketkikinkar&layout=compact&theme=vision-friendly-dark)
+
+---
+
 ## Let's Connect
 
 I am always open to collaborating on projects that push the limits of data science and machine learning. Whether you're interested in cutting-edge research or building robust solutions, feel free to reach out.
