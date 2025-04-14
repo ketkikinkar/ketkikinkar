@@ -64,8 +64,7 @@ For more, follow my posts on [Medium](https://medium.com/@ketki_kinkar).
 
 I am always open to collaborating on projects that push the limits of data science and machine learning. Whether you're interested in cutting-edge research or building robust solutions, feel free to reach out.
 
-- 📫 **Email:** [your.email@example.com](mailto:your.email@example.com)
-- 💬 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- 💬 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/ketkikinkar/)
 
 ---
 
